@@ -1,0 +1,15 @@
+{
+  "name": "@NAME@",
+  "version": "0.0.1",
+  "description": "@NAME@",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+    "@NAME@"
+  ],
+  "author": [@AUTHOR@],
+  "license": "MIT",
+  "dependencies": {
+    "garrosh": "@VERSION@"
+  }
+}

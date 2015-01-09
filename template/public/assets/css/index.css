@@ -1,0 +1,11 @@
+/**
+ * @file result.css
+ * @author @AUTHOR_HEADER@
+ * @description
+ * 首页样式
+ **/
+
+.index-title {
+    font-size: 20px;
+    font-weight: bold;
+}
