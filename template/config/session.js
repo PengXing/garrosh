@@ -9,4 +9,5 @@ module.exports = {
         // 系统默认生成，用户需要可自行更改
         secret: '@SECRET@'
     }
-}
+};
+

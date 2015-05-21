@@ -6,7 +6,7 @@
  */
 module.exports = {
 
-    '/' : {
+    '/': {
         controller: 'hello',
         action: 'index'
     },

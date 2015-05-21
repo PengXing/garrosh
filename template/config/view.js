@@ -21,6 +21,7 @@ module.exports = {
     options: {
         commandOpen: '{{',
         commandClose: '}}',
-        includedFiles: [ 'common/*' ]
+        includedFiles: ['common/*']
     }
 };
+

@@ -12,4 +12,5 @@ module.exports = {
             message: 'I\'m Garrosh Hellscream, son of Grom and Warchief of the Horde!!!'
         });
     }
-}
+};
+

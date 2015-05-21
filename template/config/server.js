@@ -29,3 +29,4 @@ module.exports = {
         max: os.cpus().length
     }
 };
+
