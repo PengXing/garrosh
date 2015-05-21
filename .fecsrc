@@ -1,0 +1,18 @@
+{
+    "eslint": {
+        "env": {
+            "node": true
+        },
+
+        "globals": {
+            "console": true,
+            "module": true,
+            "exports": true
+        },
+
+        "rules": {
+            "no-console": 1,
+            "brace-style": [2, "1tabs"]
+        }
+    }
+}
