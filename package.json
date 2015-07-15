@@ -1,6 +1,6 @@
 {
   "name": "garrosh",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "garrosh is a backend framework, fast, using MVC conventions",
   "main": "index.js",
   "scripts": {},
